@@ -1,4 +1,4 @@
-string findPalindrome(string s)
+string LPS(string s)
 {
     int n = s.size();
     string palindrome = "";

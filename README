@@ -1,0 +1,2 @@
+This method use dynamic programming technique to find the optimal and more efficient solution.
+Running time of this method is O(n^2)
